@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/mahedi-hassan-shayek-10357a203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mahedi-hassan-shayek-10357a203/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15597313/mahedi-hassan-shayek" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png" alt="mahedi-hassan-shayek" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mahedihassan.shayek.3/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/768px-Facebook_f_logo_%282019%29.svg.png" alt="mahedihassan.shayek.3/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mhshayek/" target="blank"><img align="center" src="https://download.logo.wine/logo/Instagram/Instagram-Logo.wine.png" alt="mhshayek" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mhshayek/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="mhshayek" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alfmhs123456" target="blank"><img align="center" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" alt="alfmhs123456" height="30" width="40" /></a>
 </p>
 
