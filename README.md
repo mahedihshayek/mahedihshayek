@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/HassanShayek" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="hassanshayek" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahedi-hassan-shayek-10357a203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mahedi-hassan-shayek-10357a203/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15597313/mahedi-hassan-shayek" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png" alt="mahedi-hassan-shayek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahedi-hassan-shayek-10357a203/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="mahedi-hassan-shayek-10357a203/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15597313/mahedi-hassan-shayek" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="mahedi-hassan-shayek" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mahedihassan.shayek.3/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/768px-Facebook_f_logo_%282019%29.svg.png" alt="mahedihassan.shayek.3/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mhshayek/" target="blank"><img align="center" src="https://icons8.com/icons/set/instagram" alt="mhshayek" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mhshayek/" target="blank"><img align="center" src="https://www.munny.dk/wp-content/uploads/2019/12/insta-logo-shrunk.png" alt="mhshayek" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alfmhs123456" target="blank"><img align="center" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" alt="alfmhs123456" height="30" width="40" /></a>
 </p>
 
