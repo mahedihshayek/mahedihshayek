@@ -8,7 +8,8 @@
 <p align="left"> <a href="https://twitter.com/hassanshayek" target="blank"><img src="https://img.shields.io/twitter/follow/hassanshayek?logo=twitter&style=for-the-badge" alt="hassanshayek" /></a> </p>
 
 <h1 align="left">BIO</h1>
-- 🌱 I’m currently learning **React**
+
+- 🌱 I’m currently learning **React | Data Structure and Algorithm**
 
 - 💬 Ask me about **JavaScript | React | Bootstrap**
 
