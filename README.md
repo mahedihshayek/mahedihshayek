@@ -9,7 +9,7 @@
 
 <h1 align="left">BIO</h1>
 
-- 🔭 I’m currently working on **Front-End Development
+- 🔭 I’m currently working on **Front-End Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
