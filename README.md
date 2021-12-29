@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Front-End Development**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Python | Data Structures and Algorithms**
 
 - 💬 Ask me about **JavaScript | ReactJS | Bootstrap**
 
