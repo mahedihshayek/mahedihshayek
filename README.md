@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahedi Hassan Shayek</h1>
-<h3 align="center">A passionate Programmer | Developer | Front-end developer | Learner.</h3>
+<h3 align="center">A passionate Programmer | Python Developer | Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhshayek&label=Profile%20views&color=0e75b6&style=flat" alt="mhshayek" /> </p>
 
@@ -9,11 +9,11 @@
 
 <h1 align="left">BIO</h1>
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Python | Data Structures and Algorithms**
+- 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **JavaScript | ReactJS | Bootstrap**
+- 💬 Ask me about **JavaScript | Python | ReactJS | Bootstrap**
 
 - 📫 How to reach me **mahedihassanshayek@gmail.com**
 
