@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/HassanShayek" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png?raw=true" alt="hassanshayek" width="28" height="28" /></a>
 <a href="https://www.linkedin.com/in/mahedi-hassan-shayek-10357a203/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="mahedi-hassan-shayek-10357a203/" width="28" height="28" /></a>
-<a href="https://www.facebook.com/mahedihassan.shayek.3/" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" width="28" height="28" /></a>
+<a href="https://www.facebook.com/mahedihassan.shayek.3/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png?raw=true" width="28" height="28" /></a>
 <a href="https://www.instagram.com/mhshayek/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="mhshayek" width="28" height="28" /></a>
 <a href="https://www.hackerrank.com/alfmhs123456" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Font_Awesome_5_brands_hackerrank.svg/1200px-Font_Awesome_5_brands_hackerrank.svg.png" alt="alfmhs123456"  width="28" height="28" /></a>
 </p>
