@@ -9,7 +9,7 @@
 
 <h1 align="left">BIO</h1>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **an open-source project**
 
 - 🌱 I’m currently improving **Software Engineering**
 
@@ -17,13 +17,13 @@
 
 - 📫 How to reach me **mahedihassanshayek@gmail.com**
 
-- ⚡ Fun fact **I love Travelling, Video games.**
+- ⚡ Fun fact **I love Travelling and Video games**
 
 <h3 align="left">Stay connected :</h3>
 <p align="left">
-<a href="https://twitter.com/HassanShayek" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png" alt="hassanshayek" width="28" height="28" /></a>
-<a href="https://www.linkedin.com/in/mahedi-hassan-shayek-10357a203/" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" alt="mahedi-hassan-shayek-10357a203/" width="28" height="28" /></a>
-<a href="https://stackoverflow.com/users/15597313/mahedi-hassan-shayek" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-stackoverflow-2.png" alt="mahedi-hassan-shayek" width="28" height="28" /></a>
+<a href="https://twitter.com/HassanShayek" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-white-circle-png-images-23.png" alt="hassanshayek" width="28" height="28" /></a>
+<a href="https://www.linkedin.com/in/mahedi-hassan-shayek-10357a203/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-black-png-image-21.png" alt="mahedi-hassan-shayek-10357a203/" width="28" height="28" /></a>
+<a href="https://stackoverflow.com/users/15597313/mahedi-hassan-shayek" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1200px-Stack_Overflow_logo.svg.png?20150916153754" alt="mahedi-hassan-shayek" width="28" height="28" /></a>
 <a href="https://www.facebook.com/mahedihassan.shayek.3/" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" width="28" height="28" /></a>
 <a href="https://www.instagram.com/mhshayek/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="mhshayek" width="28" height="28" /></a>
 <a href="https://www.hackerrank.com/alfmhs123456" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Font_Awesome_5_brands_hackerrank.svg/1200px-Font_Awesome_5_brands_hackerrank.svg.png" alt="alfmhs123456"  width="28" height="28" /></a>
