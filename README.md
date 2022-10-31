@@ -22,10 +22,10 @@
 <h3 align="left">Stay connected :</h3>
 <p align="left">
 <a href="https://twitter.com/HassanShayek" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png?raw=true" alt="hassanshayek" width="28" height="28" /></a>
-<a href="https://www.linkedin.com/in/mahedi-hassan-shayek-10357a203/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="mahedi-hassan-shayek-10357a203/" width="28" height="28" /></a>
-<a href="https://www.facebook.com/mahedihassan.shayek.3/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png?raw=true" width="28" height="28" /></a>
-<a href="https://www.instagram.com/mhshayek/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="mhshayek" width="28" height="28" /></a>
-<a href="https://www.hackerrank.com/MHShayek" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Font_Awesome_5_brands_hackerrank.svg/1200px-Font_Awesome_5_brands_hackerrank.svg.png" alt="alfmhs123456"  width="28" height="28" /></a>
+<a href="https://www.linkedin.com/in/hassanshayek/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="mahedi-hassan-shayek-10357a203/" width="28" height="28" /></a>
+<a href="https://www.facebook.com/hassanshayek/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png?raw=true" width="28" height="28" /></a>
+<a href="https://www.instagram.com/hassanshayek/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="mhshayek" width="28" height="28" /></a>
+<a href="https://www.hackerrank.com/hassanshayek" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Font_Awesome_5_brands_hackerrank.svg/1200px-Font_Awesome_5_brands_hackerrank.svg.png" alt="alfmhs123456"  width="28" height="28" /></a>
 </p>
 
 <h1 align="left">SKILLS</h1>
@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhshayek&show_icons=true&locale=en" alt="mhshayek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshayekk&" alt="hassanshayek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshayek&" alt="hassanshayek" /></p>
