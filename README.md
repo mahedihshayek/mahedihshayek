@@ -36,7 +36,7 @@
 <p align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://icons8.com/icon/TpULddJc4gTh/c%2B%2B.png"/> </a>
+    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://icons8.com/icon/40669/c%2B%2B.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/>  </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
