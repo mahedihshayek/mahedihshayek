@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://ibb.co/cvbWjYY"><img src="https://i.ibb.co/Wnhfjb9/Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Blue-Geometric-Technology-Linked-In-Banner" border="0">></a>
+<a href="https://ibb.co/cvbWjYY"><img src="https://i.ibb.co/Wnhfjb9/Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Blue-Geometric-Technology-Linked-In-Banner" border="0"></a>
 </p>
 <h1 align="center">Hi 👋, I'm Mahedi Hassan Shayek</h1>
 <h3 align="center">Junior Software Engineer | Programmer </h3>
@@ -34,10 +34,9 @@
 
 
 <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cplusplus.com" target="_blank"> <img src="https://icons8.com/icon/40670/c-programming"/></a>
-    <a href="https://cplusplus.com" target="_blank"> <img src="https://icons8.com/icon/TpULddJc4gTh/c%2B%2B"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/cplusplus.png"/> </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/cplusplus.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/>  </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
