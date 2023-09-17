@@ -37,7 +37,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cplusplus.com" target="_blank"> <img src="https://i.ibb.co/4mQQVvQ/c.png"/></a>
     <a href="https://cplusplus.com" target="_blank"> <img src="https://i.ibb.co/XjnStnf/c.png"/></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c++.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/cplusplus.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/>  </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
