@@ -1,5 +1,8 @@
+<p align="center">
+<img src="[[https://i.ibb.co/jkxkswK/1679956819413.jpg](https://ibb.co/3pZmG5J)](https://ibb.co/3pZmG5J)" width="100%" alt="" border="0">
+</p>
 <h1 align="center">Hi 👋, I'm Mahedi Hassan Shayek</h1>
-<h3 align="center">Programmer | Software Engineer </h3>
+<h3 align="center">Junior Software Engineer | Programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhshayek&label=Profile%20views&color=0e75b6&style=flat" alt="mhshayek" /> </p>
 
