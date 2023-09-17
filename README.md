@@ -5,10 +5,8 @@
 <h3 align="center">Junior Software Engineer | Programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhshayek&label=Profile%20views&color=0e75b6&style=flat" alt="mhshayek" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanshayek" alt="mhshayek" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hassanshayek" target="blank"><img src="https://img.shields.io/twitter/follow/hassanshayek?logo=twitter&style=for-the-badge" alt="hassanshayek" /></a> </p>
 
 <h1 align="left">BIO</h1>
 
@@ -36,8 +34,10 @@
 
 
 <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
-    <img src="https://img.icons8.com/color/48/000000/django.png"/> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cplusplus.com" target="_blank"> <img src="https://i.ibb.co/4mQQVvQ/c.png"/></a>
+    <a href="https://cplusplus.com" target="_blank"> <img src="https://i.ibb.co/XjnStnf/c.png"/></a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/>  </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
