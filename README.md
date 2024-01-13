@@ -2,10 +2,10 @@
 <a href="https://ibb.co/cvbWjYY"><img src="https://i.ibb.co/Wnhfjb9/Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Blue-Geometric-Technology-Linked-In-Banner" border="0"></a>
 </p>
 <h1 align="center">Hi 👋, I'm Mahedi Hassan Shayek</h1>
-<h3 align="center">Junior Software Engineer | Programmer </h3>
+<h3 align="center"> Programmer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhshayek&label=Profile%20views&color=0e75b6&style=flat" alt="mhshayek" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanshayek" alt="mhshayek" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedihshayek&label=Profile%20views&color=0e75b6&style=flat" alt="mahedihshayek" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahedihshayek" alt="mahedihshayek" /></a> </p>
 
 
 <h1 align="left">BIO</h1>
@@ -22,10 +22,10 @@
 
 <h3 align="left">Stay connected :</h3>
 <p align='left'>
-    <a href = "https://www.linkedin.com/in/hassanshayek/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-    <a href = "https://www.facebook.com/hassanshayek"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-    <a href = "https://www.instagram.com/hassanshayek"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href = "https://www.twitter.com/hassanshayek"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <a href = "https://www.linkedin.com/in/mahedihshayek/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+    <a href = "https://www.facebook.com/mahedihshayek"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+    <a href = "https://www.instagram.com/mahedihshayek"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://www.twitter.com/mahedihshayek"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 <h2 style='margin-top:30px'>
@@ -50,8 +50,8 @@
 </p>
 
 <h1 align="left">Overview :</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanshayek&show_icons=true&locale=en&layout=compact" alt="hassanshayek" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedihshayek&show_icons=true&locale=en&layout=compact" alt="mahedihshayek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanshayek&show_icons=true&locale=en" alt="hassanshayek" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahedihshayek&show_icons=true&locale=en" alt="mahedihshayek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshayek&" alt="hassanshayek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahedihshayek&" alt="mahedihshayek" /></p>
