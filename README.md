@@ -2,7 +2,7 @@
 <a href="https://ibb.co/cvbWjYY"><img src="https://i.ibb.co/Wnhfjb9/Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Blue-Geometric-Technology-Linked-In-Banner" border="0"></a>
 </p>
 <h1 align="center">Hi 👋, I'm Mahedi Hassan Shayek</h1>
-<h3 align="center"> Programmer </h3>
+<h3 align="center"> Programmer | Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedihshayek&label=Profile%20views&color=0e75b6&style=flat" alt="mahedihshayek" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahedihshayek" alt="mahedihshayek" /></a> </p>
@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **a personal cool software development project**
 
-- 🌱 I’m currently improving **Software Engineering, Data structures and Algorithms**
+- 🌱 I’m currently improving **Data structures and Algorithms**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **mahedihassanshayek@gmail.com**
 
