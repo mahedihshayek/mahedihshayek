@@ -5,7 +5,7 @@
 <h3 align="center"> Fullstack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedihshayek&label=Profile%20views&color=0e75b6&style=flat" alt="mahedihshayek" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahedihshayek" alt="mahedihshayek" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mahedihshayek" alt="GitHub Profile Trophy" /> </a> </p>
 
 
 <h1 align="left">BIO</h1>
@@ -39,10 +39,10 @@
     <a href="https://www.cplusplus.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.learn-js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongo.png"/> </a>
-    <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express.png"/> </a>
-    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react.png"/> </a>
-    <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/color/48/000000/node.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000"/> </a>
+    <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/> </a>
+    <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/> </a>
     <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/>  </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -54,8 +54,9 @@
 </p>
 
 <h1 align="left">Overview :</h1>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedihshayek&show_icons=true&locale=en&layout=compact" alt="mahedihshayek" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahedihshayek&show_icons=true&locale=en" alt="mahedihshayek" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mahedihshayek&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahedihshayek" alt="mahedihshayek" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahedihshayek&layout=compact&locale=en" alt="Top Languages" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahedihshayek" alt="GitHub Streak" /> </p>
