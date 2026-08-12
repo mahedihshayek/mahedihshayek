@@ -2,10 +2,10 @@
 <a href="https://ibb.co/cvbWjYY"><img src="https://i.ibb.co/Wnhfjb9/Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Blue-Geometric-Technology-Linked-In-Banner" border="0"></a>
 </p>
 <h1 align="center">Hi 👋, I'm Mahedi Hassan Shayek</h1>
-<h3 align="left"> Full Stack Developer | MERN </h3>
+<h3 align="center"> Full Stack Developer | MERN </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedihshayek&label=Profile%20views&color=0e75b6&style=flat" alt="mahedihshayek" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mahedihshayek" alt="GitHub Profile Trophy" /> </a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mahedihshayek" alt="GitHub Profile Trophy" /> </a> </p> -->
 
 
 <h1 align="left">BIO</h1>
@@ -52,8 +52,8 @@
 
 <h1 align="left">Overview :</h1>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mahedihshayek&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mahedihshayek&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahedihshayek&layout=compact&locale=en" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahedihshayek&layout=compact&locale=en" alt="Top Languages" /> </p> -->
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahedihshayek" alt="GitHub Streak" /> </p>
