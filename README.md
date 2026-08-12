@@ -40,9 +40,9 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.learn-js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
-    <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000"/> </a>
-    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/> </a>
-    <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/> </a>
+    <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png&color=000000"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=123603&format=png&color=000000"/> </a>
+    <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/?size=48&id=54087&format=png&color=000000"/> </a>
     <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
@@ -52,7 +52,7 @@
 
 <h1 align="left">Overview :</h1>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mahedihshayek&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mahedihshayek&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahedihshayek&layout=compact&locale=en" alt="Top Languages" /> </p>
 
