@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://ibb.co.com/q3hB412G"><img src="https://i.ibb.co.com/5XYXvv5d/linked-In-banner.png" alt="Full Stack Developer" border="0"></a>    
+<a href="https://ibb.co.com/q3hB412G"><img src="https://i.ibb.co.com/TxJcnhNX/mahedi-hassan-shayek-swe.png" alt="mahedi hassan shayek swe" border="0"></a>  
 </p>
 <h1 align="center">Hi 👋, I'm Mahedi Hassan Shayek</h1>
 <h3 align="center"> Software Engineer | Full Stack Developer | MERN Stack </h3>
