@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://ibb.co.com/Xfyfppz9"><img src="https://i.ibb.co.com/5XYXvv5d/linked-In-banner.png" alt="Full Stack Developer" border="0"></a>    
+<a href="https://ibb.co.com/q3hB412G"><img src="https://i.ibb.co.com/5XYXvv5d/linked-In-banner.png" alt="Full Stack Developer" border="0"></a>    
 </p>
 <h1 align="center">Hi 👋, I'm Mahedi Hassan Shayek</h1>
-<h3 align="center"> Full Stack Developer | MERN </h3>
+<h3 align="center"> Software Engineer | Full Stack Developer | MERN Stack </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedihshayek&label=Profile%20views&color=0e75b6&style=flat" alt="mahedihshayek" /> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mahedihshayek" alt="GitHub Profile Trophy" /> </a> </p> -->
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **mahedihassanshayek@gmail.com**
+- 📫 How to reach me **mhshayek12@gmail.com**
 
 - ⚡ Fun fact **I love traveling and esports**
 
