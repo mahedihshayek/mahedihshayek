@@ -2,7 +2,7 @@
 <a href="https://ibb.co.com/q3hB412G"><img src="https://i.ibb.co.com/TxJcnhNX/mahedi-hassan-shayek-swe.png" alt="mahedi hassan shayek swe" border="0"></a>  
 </p>
 <h1 align="center">Hi 👋, I'm Mahedi Hassan Shayek</h1>
-<h3 align="center"> Software Engineer | Full Stack Developer | MERN Stack </h3>
+<h3 align="center"> Software Engineer | Full Stack Engineer | MERN Stack </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedihshayek&label=Profile%20views&color=0e75b6&style=flat" alt="mahedihshayek" /> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mahedihshayek" alt="GitHub Profile Trophy" /> </a> </p> -->
